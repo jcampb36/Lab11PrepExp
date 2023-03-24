@@ -1,0 +1,4 @@
+For your outline, create a summary of each of the git commands listed above that you had to research. For each command provide:
+A brief explanation of what the command does,
+An example of using it within the Replit environment you have setup, and
+A description of how the git command affects your repository on GitHub.

@@ -1,0 +1,1 @@
+config, clone, diff, status, add, rm, commit -m, push, pull, log

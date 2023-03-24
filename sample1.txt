@@ -1,0 +1,2 @@
+To prepare for lab this week, do some online research on the git commands shown below and practice using them.
+Explore these commands in the order that they are shown, as some of the commands may be dependent on a previous one. Each of the commands below can be run with git in front, e.g. git clone or git status.
